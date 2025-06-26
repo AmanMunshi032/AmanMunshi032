@@ -9,10 +9,10 @@
 ![Java](https://img.shields.io/badge/Mongodb-blue?logo=Mongodb) 
 ![Java](https://img.shields.io/badge/Tailwind-blue?logo=Tailwind) 
 ![Java](https://img.shields.io/badge/Git-blue?logo=Git) 
-![Java](https://img.shields.io/badge/Css-blue?logo=Css) 
-![Java](https://img.shields.io/badge/Html-blue?logo=Nodejs) 
-![Java](https://img.shields.io/badge/Html-blue?logo=Html) 
-![Java](https://img.shields.io/badge/Html-blue?logo=Html) 
+![Java](https://img.shields.io/badge/css-blue?logo=css) 
+![Java](https://img.shields.io/badge/nodedotjs-blue?logo=nodedotjs) 
+![Java](https://img.shields.io/badge/html-blue?logo=html) 
+![Java](https://img.shields.io/badge/expressdotjs-blue?logo=expressdotjs) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aman Munshi&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman Munshi&theme=onedark&hide_border=false)<br/>
