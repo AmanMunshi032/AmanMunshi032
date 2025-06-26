@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tanvir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Tanvir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tanvir) 
 
 # 💻 Tech Stack:
-![Java]( https://img.shields.io/badge/logo-javascript-blue?logo) 
+![Java]( https://img.shields.io/badge/logo-javascript-blue?javascript) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aman Munshi&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman Munshi&theme=onedark&hide_border=false)<br/>
