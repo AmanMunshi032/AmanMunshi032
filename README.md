@@ -1,5 +1,5 @@
 ## <h1> 🧑‍💻About me <h1/>
-<img src="https://github.com/AmanMunshi032/AmanMunshi032/blob/main/Aamn%20Munshi.png">
+<img src="https://github.com/AmanMunshi032/AmanMunshi032/blob/main/1.png">
 ## 🌐 Socials:
 
 ## 🌐 Socials:
