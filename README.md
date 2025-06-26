@@ -1,4 +1,4 @@
-## [About me](https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330)
+##🧑‍💻 <h1>About me <h1/>
 <img src="https://github.com/AmanMunshi032/AmanMunshi032/blob/main/Aamn%20Munshi.png">
 ## 🌐 Socials:
 
@@ -11,12 +11,12 @@
 ![Java](https://img.shields.io/badge/javascript-blue?logo=javascript) 
 ![Java](https://img.shields.io/badge/React-blue?logo=React) 
 ![Java](https://img.shields.io/badge/Mongodb-blue?logo=Mongodb) 
-![Java](https://img.shields.io/badge/Tailwind-blue?logo=Tailwind) 
+![Java](https://img.shields.io/badge/TailwindCSS-blue?logo=TailwindCSS) 
 ![Java](https://img.shields.io/badge/Git-blue?logo=Git) 
-![Java](https://img.shields.io/badge/css-blue?logo=css) 
-![Java](https://img.shields.io/badge/nodedotjs-blue?logo=nodedotjs) 
-![Java](https://img.shields.io/badge/html-blue?logo=html) 
-![Java](https://img.shields.io/badge/expressdotjs-blue?logo=expressdotjs) 
+![Java](https://img.shields.io/badge/CSS-blue?logo=CSS) 
+![Java](https://img.shields.io/badge/nodejs-blue?logo=nodedotjs) 
+![Java](https://img.shields.io/badge/HTML-blue?logo=HTML) 
+![Java](https://img.shields.io/badge/expressjs-blue?logo=expressdotjs) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aman Munshi&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman Munshi&theme=default&hide_border=false)<br/>
