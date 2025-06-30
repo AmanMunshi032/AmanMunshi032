@@ -20,15 +20,7 @@
  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg#L1"  width="42" > 
  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg#L1"  width="42" > 
 </div>
-![Java](https://img.shields.io/badge/javascript-blue?logo=javascript) 
-![Java](https://img.shields.io/badge/React-blue?logo=React) 
-![Java](https://img.shields.io/badge/Mongodb-blue?logo=Mongodb) 
-![Java](https://img.shields.io/badge/TailwindCSS-blue?logo=TailwindCSS) 
-![Java](https://img.shields.io/badge/Git-blue?logo=Git) 
-![Java](https://img.shields.io/badge/CSS-blue?logo=CSS) 
-![Java](https://img.shields.io/badge/nodejs-blue?logo=nodedotjs) 
-![Java](https://img.shields.io/badge/HTML-blue?logo=HTML) 
-![Java](https://img.shields.io/badge/expressjs-blue?logo=expressdotjs) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aman Munshi&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman Munshi&theme=default&hide_border=false)<br/>
