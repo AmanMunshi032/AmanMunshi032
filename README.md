@@ -8,8 +8,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Tech Stack:
- <img src='https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg' width="28">
- <img src="./icons/MongoDB.svg" > 
+<div >
+  <img src='https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg' width="28">
+ <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg" > 
+</div>
 ![Java](https://img.shields.io/badge/javascript-blue?logo=javascript) 
 ![Java](https://img.shields.io/badge/React-blue?logo=React) 
 ![Java](https://img.shields.io/badge/Mongodb-blue?logo=Mongodb) 
