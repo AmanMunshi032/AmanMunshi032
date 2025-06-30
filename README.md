@@ -9,6 +9,7 @@
 
 # 💻 Tech Stack:
  <img src=''>
+ <img src="./icons/MongoDB.svg" width="48"> 
 ![Java](https://img.shields.io/badge/javascript-blue?logo=javascript) 
 ![Java](https://img.shields.io/badge/React-blue?logo=React) 
 ![Java](https://img.shields.io/badge/Mongodb-blue?logo=Mongodb) 
