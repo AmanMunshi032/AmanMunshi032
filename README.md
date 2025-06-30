@@ -8,7 +8,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Tech Stack:
- <img src=''>
+ <img src='https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg'>
  <img src="./icons/MongoDB.svg" width="48"> 
 ![Java](https://img.shields.io/badge/javascript-blue?logo=javascript) 
 ![Java](https://img.shields.io/badge/React-blue?logo=React) 
