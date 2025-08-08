@@ -1,9 +1,9 @@
 
 <img src="https://github.com/AmanMunshi032/AmanMunshi032/blob/main/Banner.PNG">
-# Hi, I'm Aman Munshi 
--👋### MERN Stack Developer | Open Source Contributor
+# Hi, I'm Aman Munshi | MERN Stack Developer | Open Source Contributor
 
-## <h1> 🧑‍💻About me <h1/>:I'm a passionate Full Stack Developer with a focus on building fast, responsive, and scalable web applications. I love turning ideas into code and continuously learning modern technologies.
+## <h1> 🧑‍💻About me <h1/>
+-I'm a passionate Full Stack Developer with a focus on building fast, responsive, and scalable web applications. I love turning ideas into code and continuously learning modern technologies.
 
 ### 🚀 Current Activities:
 - 🔍 Exploring **Next.js** and advanced React patterns.
