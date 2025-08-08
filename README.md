@@ -1,9 +1,10 @@
 
 <img src="https://github.com/AmanMunshi032/AmanMunshi032/blob/main/Banner.PNG">
-# Hi, I'm Aman Munshi | MERN Stack Developer | Open Source Contributor
+<h1 align="center"> # Hi, I'm Aman Munshi </h1>
+<h3 align="center"> # MERN Stack Developer | Open Source Contributor </h1></h3>
 
-## <h1> 🧑‍💻About me <h1/>
--I'm a passionate Full Stack Developer with a focus on building fast, responsive, and scalable web applications. I love turning ideas into code and continuously learning modern technologies.
+## <h6> 🧑‍💻About me <h6/>
+I'm a passionate Full Stack Developer with a focus on building fast, responsive, and scalable web applications. I love turning ideas into code and continuously learning modern technologies.
 
 ### 🚀 Current Activities:
 - 🔍 Exploring **Next.js** and advanced React patterns.
@@ -29,8 +30,6 @@
  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg#L1"  width="42" > 
  <img  src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg#L1"  width="42" > 
  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg#L1"  width="42" > 
- <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg#L1"  width="42" > 
- <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg#L1"  width="42" > 
  <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg#L1"  width="42" > 
 </div>
 
