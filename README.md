@@ -1,7 +1,7 @@
 ## <h1> 🧑‍💻About me <h1/>
 <img src="https://github.com/AmanMunshi032/AmanMunshi032/blob/main/Banner.PNG">
-# Hi, I'm Aman Munshi 👋  
-### MERN Stack Developer | Open Source Contributor
+# Hi, I'm Aman Munshi   
+👋### MERN Stack Developer | Open Source Contributor
 ### 💬 About Me:
 I'm a passionate Full Stack Developer with a focus on building fast, responsive, and scalable web applications. I love turning ideas into code and continuously learning modern technologies.
 
@@ -36,25 +36,8 @@ I'm a passionate Full Stack Developer with a focus on building fast, responsive,
 
 # 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Coffee)  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Aman) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Coffee) 
 
-  <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox" />
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
