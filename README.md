@@ -42,3 +42,52 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
+<img src="your-banner-image-url" alt="Banner" />
+
+# Hi, I'm Aman Munshi 👋  
+### MERN Stack Developer | Open Source Contributor
+
+---
+
+### 💬 About Me:
+I'm a passionate Full Stack Developer with a focus on building fast, responsive, and scalable web applications. I love turning ideas into code and continuously learning modern technologies.
+
+---
+
+### 🚀 Current Activities:
+- 🔍 Exploring **Next.js** and advanced React patterns.
+- 🌐 Building a **tourism website** project.
+- 📖 Practicing DSA and contributing to open-source.
+
+---
+
+### 🛠️ Skills:
+
+#### 🚧 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+
+#### 💾 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
+#### 🛢️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+
+---
+
+### 🔗 Connect with Me:
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+
+---
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
